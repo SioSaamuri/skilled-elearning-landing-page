@@ -14,10 +14,7 @@ This is a solution to the [Skilled e-learning landing page challenge on Frontend
 
 ### The challenge
 
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+ძაან კარგი ჩელენჯი იყო. ბევრი ვიწვალე, რაღაცებით კმაყოფილი მაინც არ ვარ, მიუხედავად იმისა რო შედეგი ლამაზია და დიზანთან მაქსიმალურად ახლოსაა, მგონია რო რაღაცების უფრო მარტივი გზებით გაკეთება შეძლება, ვიდრე გავაკეთე.
 
 ### Screenshot
 
@@ -25,10 +22,12 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/SioSaamuri/skilled-elearning-landing-page.git)
+- Live Site URL: [Add live site URL here](https://siosaamuri.github.io/skilled-elearning-landing-page/)
 
 ## My process
+
+დაახლოებით 5+ საათი დამჭირდა ამ ჩელენჯის თავიდან ბოლომდე გასაკეთებლად. დიდი დრო წამართვა hero image რო დამესვა სწორ პოზიციაზე, ისევ position: absolute ით მოვახერხე. თუმცა, მგონია რო რაღაც სხვა გზაც უნდა არსბეობდეს. ბევრი ვეძებე, მაგრამ ვერაფერი.
 
 ### Built with
 
@@ -39,9 +38,9 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
+1. ჯიდევ ერთხელ წავივარჯიშე flexbox ში
+2. ამ ჩელენჯში პირველად შევეხე grid - ს და ძაან გაასწორა.
+3. გრედიენტებიც გავაანალიზე (თუმცა ძირითადად ფიგმადან წამოვიღე)
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
@@ -61,5 +60,4 @@ const proudOfThisFunc = () => {
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
